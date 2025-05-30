@@ -51,6 +51,7 @@ h5{
   padding-bottom: 50px;
   font-family: 'Times New Roman', Times, serif;
   padding-right: 40px;
+  
 }
 .img{
   height: 300px ;
@@ -62,7 +63,7 @@ h5{
 } 
 
 img{
-  height: 300px;
+  height: 305px;
   width: 400px;
   border-radius: 0px 5px 5px 0px;
 }
@@ -72,6 +73,6 @@ br{
 }
 
 .com, .que, .tem{
-  font-size: small;
+  font-size: xx-small;
   color: white;
 }
